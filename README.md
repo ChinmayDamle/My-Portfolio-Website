@@ -11,10 +11,10 @@ This is my portfolio website showcasing my projects, skills, and experience. It 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-website.git`
+1. Clone the repository: `git clone https://github.com/Chinmay/portfolio-website.git`
 2. Open `index.html` in your web browser.
 3. Explore different sections using the navigation menu.
-4. Toggle between dark mode and light mode using the switch located [describe the location].
+4. Toggle between dark mode and light mode using the switch.
 
 ## Technologies Used
 
