@@ -1,4 +1,4 @@
 # My-Portfolio-Website
-This is my portfolio website.
-<br>
-Author : Chinmay Damle (2)
+Hello everyone, this is my portfolio website. Also, my first HTML, CSS, JS project.
+
+Author: Chinmay Damle
